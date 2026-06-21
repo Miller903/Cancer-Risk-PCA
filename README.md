@@ -1,2 +1,2 @@
 # Cancer-Risk-PCA
-Results from a team project in Matrix Analysis class Spring 2025.
+Results from a team project in Matrix Analysis class spring 2025.
